@@ -18,7 +18,7 @@ header p{
 }
 section{
     background-color: transparent;
-    height: 80vh;
+    height: 77vh;
     margin-left: 20px;
 }
 a{
@@ -33,7 +33,7 @@ footer{
     margin-left: 20px;
 }
 main{
-    background-image: linear-gradient( 60deg, rgb(159, 63, 214), rgb(64, 177, 211));
+    background-image: linear-gradient( 60deg, rgb(134, 48, 214), rgb(64, 177, 211));
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .titulo{
