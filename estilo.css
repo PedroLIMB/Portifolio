@@ -8,12 +8,34 @@ main{
 header{
     background-color: transparent;
 }
+header h1{
+    height: 6vh;
+    display: flex;
+    justify-content: center;
+}
+header p{
+    font-size: 20px;
+}
 section{
     background-color: transparent;
+    height: 80vh;
+    margin-left: 20px;
+}
+a{
+    color: black;
+}
+section h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 footer{
     background-color: transparent;
+    margin-left: 20px;
 }
 main{
-    background-image: linear-gradient(to left, blueviolet, rgb(60, 153, 240));
+    background-image: linear-gradient( 60deg, rgb(159, 63, 214), rgb(64, 177, 211));
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
