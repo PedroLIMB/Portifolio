@@ -23,6 +23,7 @@ section{
 }
 a{
     color: black;
+    text-decoration: none;
 }
 section h2{
     margin-top: 10px;
