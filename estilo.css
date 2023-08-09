@@ -34,7 +34,7 @@ footer{
     margin-left: 20px;
 }
 main{
-    background-image: linear-gradient( 45deg, rgb(250, 106, 11), rgb(48, 45, 247));
+    background-image: linear-gradient(to right bottom, #19dc87, #00ada8, #0079ad, #00458a, #170f4a);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 .titulo{
